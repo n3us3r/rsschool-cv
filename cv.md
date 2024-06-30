@@ -2,7 +2,7 @@
 
 ## Contact info
 
-##### Location: Poland, Warsaw
+##### location: Poland, Warsaw
 
 ##### phone: +48517314221
 
@@ -24,9 +24,9 @@ My career was connected with end-user support (various Microsoft related tasks).
 
 ## Skills
 
-Programming languages: Powershell, HTML, CSS, Javascript, React (Basics)
-Methodology: BEM
-Version control: Git, Github
+Programming languages: Powershell, HTML, CSS, Javascript, React (Basics)\
+Methodology: BEM\
+Version control: Git, Github\
 Tools: VSCode, Figma
 
 ## Work experience
