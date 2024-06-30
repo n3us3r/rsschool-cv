@@ -24,10 +24,10 @@ My career was connected with end-user support (various Microsoft related tasks).
 
 ## Skills
 
-Programming languages: Powershell, HTML, CSS, Javascript, React (Basics)\
-Methodology: BEM\
-Version control: Git, Github\
-Tools: VSCode, Figma
+**Programming languages:** Powershell, HTML, CSS, Javascript, React (Basics)\
+**Methodology:** BEM\
+**Version control:** Git, Github\
+**Tools:** VSCode, Figma
 
 ## Work experience
 
